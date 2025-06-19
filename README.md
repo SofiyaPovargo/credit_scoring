@@ -16,8 +16,10 @@
 - seaborn
 
 ### Среда разработки
-- Jupyter Notebook 
-- VS Code 
+- Jupyter Notebook ![image](https://github.com/user-attachments/assets/843c8561-a107-41c1-ba39-5619f62ce971)
+
+- VS Code ![image](https://github.com/user-attachments/assets/74d0daec-6d62-4e1d-b645-033cdb840450)
+
 
 
 ### Контроль версий
