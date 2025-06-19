@@ -3,21 +3,26 @@
 ## 🧰 Стек технологий
 
 ### Язык программирования
-- Python 3.10
+- Python 3.10![image](https://github.com/user-attachments/assets/f7cb95ba-eaa1-4365-87e4-12b555bb4dbf)
+
 
 ### Библиотеки и инструменты
 - pandas
 - scikit-learn
 - optuna
 - xgboost
-- matplotlib
+- matplotlib![image](https://github.com/user-attachments/assets/6fdbda17-b6b1-4c21-810b-c5f4f9e5b317)
+
 - seaborn
 
 ### Среда разработки
-- Jupyter Notebook ![image](https://github.com/user-attachments/assets/b207e4e4-2e43-4c22-b474-3af387a34b55)
+- Jupyter Notebook 
 
-- VS Code
+- VS Code![image](https://github.com/user-attachments/assets/db98ce38-2beb-4706-ae7f-053da3c878d2)
+
 
 ### Контроль версий
-- Git
-- GitHub
+- Git![image](https://github.com/user-attachments/assets/d5437cd6-244c-468e-b013-26efa7759dec)
+
+- GitHub![image](https://github.com/user-attachments/assets/ecd7f24e-c47b-464e-8027-83c7ecf94b60)
+
