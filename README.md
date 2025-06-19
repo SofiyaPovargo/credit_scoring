@@ -17,9 +17,7 @@
 
 ### Среда разработки
 - Jupyter Notebook 
-
 - VS Code 
-![image](https://github.com/user-attachments/assets/f142df4f-b123-4ce0-beca-c11ae548ef51)
 
 
 ### Контроль версий
