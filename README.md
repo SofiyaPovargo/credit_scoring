@@ -8,7 +8,8 @@
 
 ### Библиотеки и инструменты
 - pandas
-- scikit-learn
+- scikit-learn ![image](https://github.com/user-attachments/assets/5501073d-c963-4493-b4cd-7a44d0043603)
+
 - optuna
 - xgboost
 - matplotlib ![image](https://github.com/user-attachments/assets/6fdbda17-b6b1-4c21-810b-c5f4f9e5b317)
@@ -19,6 +20,7 @@
 - Jupyter Notebook 
 
 - VS Code ![image](https://github.com/user-attachments/assets/db98ce38-2beb-4706-ae7f-053da3c878d2)
+![image](https://github.com/user-attachments/assets/f142df4f-b123-4ce0-beca-c11ae548ef51)
 
 
 ### Контроль версий
